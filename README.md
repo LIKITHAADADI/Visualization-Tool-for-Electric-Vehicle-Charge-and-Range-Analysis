@@ -155,7 +155,7 @@ We integrated **Bootstrap 5** to build a responsive and modern web interface for
 
 ### 🎥 Video Demo
 
-📺 **Watch the Demo Video Here**: [Click to View Project Demo](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK](https://drive.google.com/file/d/1vucdayr9EoDq4apSsSLE3-PO1d5wxZUG/view?usp=drivesdk))
+📺 **Watch the Demo Video Here**: [Click to View Project Demo](https://drive.google.com/file/d/1vucdayr9EoDq4apSsSLE3-PO1d5wxZUG/view?usp=drivesdk)
 
 
 ### 🎨 Customization Highlights:
